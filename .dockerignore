@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+myenv
+models/*.pth
+data/*.csv
+.git
