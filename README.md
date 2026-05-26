@@ -2,7 +2,9 @@
 
 ## 🚀 Overview
 This project is an end-to-end AI-powered supply chain demand forecasting system that predicts SKU-level demand using multiple machine learning and deep learning models. It includes a FastAPI backend and a premium Streamlit dashboard for real-time insights. The system is designed with a multi-model architecture for accuracy comparison and production-style deployment readiness.
-
+---
+## 🚀 live:- https://huggingface.co/spaces/Kaif3118/Supply-Chain-AI-Control-Center
+---
 ## 🧠 Key Features
 - Multi-model forecasting using XGBoost, LSTM, ARIMA, and TFT
 - Real-time REST API built with FastAPI
